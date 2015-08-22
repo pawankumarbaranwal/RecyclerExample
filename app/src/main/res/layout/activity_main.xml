@@ -8,9 +8,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".MainActivity">
 
-<android.widget.Swipe
-    android:layout_width=""
-    android:layout_height=""></android.widget.Swipe>
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/cardList"
         android:layout_width="match_parent"
